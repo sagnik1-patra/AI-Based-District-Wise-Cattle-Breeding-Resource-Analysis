@@ -1,0 +1,91 @@
+project:
+  name: AI-Based District-Wise Cattle Breeding Resource Analysis
+  dataset: Table_10.13_cowbulls_kept_AIcentres_0.csv
+  output_directory: C:\Users\sagni\Downloads\AI-Based District-Wise Cattle Breeding
+    Resource Analysis
+  target: Animal_Count
+data:
+  first_year: 1971
+  last_year: 2018
+  districts:
+  - Amritsar
+  - Barnala
+  - Bathinda
+  - Faridkot
+  - Fatehgarh Sahib
+  - Fazilka
+  - Ferozpur
+  - Gurdaspur
+  - Hoshiarpur
+  - Jalandhar
+  - Kapurthala
+  - Ludhiana
+  - Mansa
+  - Moga
+  - Pathankot
+  - Patiala
+  - Rupnagar
+  - SAS Nagar
+  - SBS Nagar
+  - Sangrur
+  - Sri Muktsar Sahib
+  - Tarn Taran
+  district_mapping:
+    Amritsar: 0
+    Barnala: 1
+    Bathinda: 2
+    Faridkot: 3
+    Fatehgarh Sahib: 4
+    Fazilka: 5
+    Ferozpur: 6
+    Gurdaspur: 7
+    Hoshiarpur: 8
+    Jalandhar: 9
+    Kapurthala: 10
+    Ludhiana: 11
+    Mansa: 12
+    Moga: 13
+    Pathankot: 14
+    Patiala: 15
+    Rupnagar: 16
+    SAS Nagar: 17
+    SBS Nagar: 18
+    Sangrur: 19
+    Sri Muktsar Sahib: 20
+    Tarn Taran: 21
+  features:
+  - Year
+  - Lag_1
+  - Lag_2
+  - Lag_3
+  - Moving_Average_3
+  - Previous_Change
+  - District_Code
+  lags: 3
+models:
+  random_forest:
+    n_estimators: 250
+    max_depth: 12
+    min_samples_leaf: 2
+  neural_network:
+    hidden_layers:
+    - 64
+    - 32
+    - 16
+    learning_rate: 0.001
+    batch_size: 16
+    maximum_epochs: 200
+evaluation:
+  split_type: chronological
+  train_end_year: 2001
+  validation_end_year: 2008
+  metrics:
+  - MAE
+  - RMSE
+  - R2
+  selected_model: Neural_Network
+artifacts:
+  keras_model: cattle_breeding_model.h5
+  random_forest: cattle_breeding_model.pkl
+  preprocessing: preprocessing.pkl
+  metrics: metrics.json

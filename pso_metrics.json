@@ -1,0 +1,37 @@
+{
+    "project": "PSO-Based Cattle Breeding Resource Analysis",
+    "algorithm": "Particle Swarm Optimization",
+    "optimization_objective": "Minimize validation MAE",
+    "baseline_validation_mae": 1.0903970531318385,
+    "pso_validation_mae": 0.8158183463120378,
+    "baseline_test_metrics": {
+        "MAE": 1.005099687474299,
+        "RMSE": 3.8738892136940337,
+        "R2": 0.88596913597678
+    },
+    "pso_test_metrics": {
+        "MAE": 0.8626722669172985,
+        "RMSE": 3.6236397724521225,
+        "R2": 0.9002258451999005
+    },
+    "best_parameters": {
+        "n_estimators": 101,
+        "max_depth": 13,
+        "min_samples_split": 9,
+        "min_samples_leaf": 7,
+        "max_features": 1.0
+    },
+    "iterations": 15,
+    "particles": 12,
+    "unique_configurations_evaluated": 190,
+    "optimization_seconds": 80.68314504623413,
+    "test_records": 193,
+    "forecast_records": 105,
+    "notes": [
+        "PSO optimizes Random Forest hyperparameters.",
+        "Test data is not used during optimization.",
+        "R2 is not classification accuracy.",
+        "Missing historical values are not replaced with zero.",
+        "Forecasts are experimental recursive projections."
+    ]
+}

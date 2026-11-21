@@ -1,0 +1,194 @@
+District,Year,Actual_Count,RF_Prediction,NN_Prediction,Selected_Prediction,Absolute_Error,Squared_Error,Selected_Model
+Amritsar,2009,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2009,44.0,50.03632857142857,43.89245,43.89245,0.10755157470703125,0.011567341221962124,Neural_Network
+Rupnagar,2009,20.0,16.833479365079366,18.202473,18.202473,1.7975273132324219,3.2311044418165693,Neural_Network
+SAS Nagar,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2009,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2010,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2010,36.0,49.2039857142857,42.010666,42.010666,6.0106658935546875,36.12810448394157,Neural_Network
+Rupnagar,2010,25.0,18.18779365079365,20.620033,20.620033,4.379966735839844,19.184108607063536,Neural_Network
+SAS Nagar,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2010,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2011,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2011,26.0,29.60607936507937,33.828,33.828,7.827999114990234,61.27757014428789,Neural_Network
+Rupnagar,2011,37.0,21.570987301587305,23.29071,23.29071,13.70928955078125,187.94461998715997,Neural_Network
+SAS Nagar,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2011,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2012,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2012,49.0,23.461155555555564,25.282627,25.282627,23.71737289428711,562.5137770066649,Neural_Network
+Rupnagar,2012,25.0,28.858314285714293,35.51257,35.51257,10.512569427490234,110.51411596780235,Neural_Network
+SAS Nagar,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2012,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2013,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2013,31.0,52.80593174603176,51.462242,51.462242,20.462242126464844,418.7033528420725,Neural_Network
+Rupnagar,2013,27.0,23.624044444444444,21.994205,21.994205,5.005794525146484,25.057978827986517,Neural_Network
+SAS Nagar,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2013,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2014,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2014,46.0,28.928123809523814,26.619505,26.619505,19.380495071411133,375.6035892129912,Neural_Network
+Rupnagar,2014,34.0,24.297076190476194,28.21347,28.21347,5.786529541015625,33.4839241290465,Neural_Network
+SAS Nagar,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2014,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2015,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2015,44.0,53.84337619047621,48.163494,48.163494,4.163494110107422,17.334683204899193,Neural_Network
+Rupnagar,2015,23.0,25.51755555555556,32.07326,32.07326,9.073261260986328,82.32406991011521,Neural_Network
+SAS Nagar,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2015,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2016,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2016,44.0,48.941220634920626,39.418644,39.418644,4.581356048583984,20.98882324389706,Neural_Network
+Rupnagar,2016,23.0,21.09455873015873,20.379847,20.379847,2.6201534271240234,6.865203981669765,Neural_Network
+SAS Nagar,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2016,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2017,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fazilka,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Pathankot,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2017,44.0,49.3051857142857,42.051964,42.051964,1.9480361938476562,3.7948450125404634,Neural_Network
+Rupnagar,2017,23.0,21.563415873015877,23.242666,23.242666,0.24266624450683594,0.05888690622305148,Neural_Network
+SAS Nagar,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2017,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Amritsar,2018,0.0,0.4149333333333333,0.0,0.0,0.0,0.0,Neural_Network
+Barnala,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Bathinda,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Faridkot,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fatehgarh Sahib,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Fazilka,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ferozpur,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Hoshiarpur,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Jalandhar,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Kapurthala,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Ludhiana,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Mansa,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Moga,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Pathankot,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Patiala,2018,73.0,49.2359857142857,41.695877,41.695877,31.304122924804688,979.9481120912824,Neural_Network
+Rupnagar,2018,31.0,20.48645079365079,19.98677,19.98677,11.013229370117188,121.29122115881182,Neural_Network
+SAS Nagar,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+SBS Nagar,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sangrur,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Sri Muktsar Sahib,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network
+Tarn Taran,2018,0.0,0.0,0.0,0.0,0.0,0.0,Neural_Network

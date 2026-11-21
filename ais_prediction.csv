@@ -1,0 +1,106 @@
+District,Year,AIS_Predicted_Count,AIS_Rounded_Count,Model,Prediction_Type
+Amritsar,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Amritsar,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Amritsar,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Amritsar,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Amritsar,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Barnala,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Barnala,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Barnala,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Barnala,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Barnala,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Bathinda,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Bathinda,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Bathinda,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Bathinda,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Bathinda,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Faridkot,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Faridkot,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Faridkot,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Faridkot,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Faridkot,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fatehgarh Sahib,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fatehgarh Sahib,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fatehgarh Sahib,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fatehgarh Sahib,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fatehgarh Sahib,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fazilka,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fazilka,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fazilka,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fazilka,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Fazilka,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ferozpur,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ferozpur,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ferozpur,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ferozpur,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ferozpur,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Hoshiarpur,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Hoshiarpur,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Hoshiarpur,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Hoshiarpur,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Hoshiarpur,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Jalandhar,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Jalandhar,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Jalandhar,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Jalandhar,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Jalandhar,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Kapurthala,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Kapurthala,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Kapurthala,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Kapurthala,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Kapurthala,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ludhiana,2019,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ludhiana,2020,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ludhiana,2021,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ludhiana,2022,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Ludhiana,2023,0.0010176390773405698,0,AIS Optimized Random Forest,Recursive forecast
+Mansa,2019,0.006821950851801598,0,AIS Optimized Random Forest,Recursive forecast
+Mansa,2020,0.006821950851801598,0,AIS Optimized Random Forest,Recursive forecast
+Mansa,2021,0.006821950851801598,0,AIS Optimized Random Forest,Recursive forecast
+Mansa,2022,0.006821950851801598,0,AIS Optimized Random Forest,Recursive forecast
+Mansa,2023,0.006821950851801598,0,AIS Optimized Random Forest,Recursive forecast
+Moga,2019,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Moga,2020,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Moga,2021,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Moga,2022,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Moga,2023,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Pathankot,2019,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Pathankot,2020,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Pathankot,2021,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Pathankot,2022,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Pathankot,2023,0.013351801598070253,0,AIS Optimized Random Forest,Recursive forecast
+Patiala,2019,64.28811570964115,64,AIS Optimized Random Forest,Recursive forecast
+Patiala,2020,66.05801582174053,66,AIS Optimized Random Forest,Recursive forecast
+Patiala,2021,66.64273663739985,67,AIS Optimized Random Forest,Recursive forecast
+Patiala,2022,66.16485016083612,66,AIS Optimized Random Forest,Recursive forecast
+Patiala,2023,66.16485016083611,66,AIS Optimized Random Forest,Recursive forecast
+Rupnagar,2019,27.179399546492313,27,AIS Optimized Random Forest,Recursive forecast
+Rupnagar,2020,24.479342551025184,24,AIS Optimized Random Forest,Recursive forecast
+Rupnagar,2021,22.812187005528266,23,AIS Optimized Random Forest,Recursive forecast
+Rupnagar,2022,22.474697400118444,22,AIS Optimized Random Forest,Recursive forecast
+Rupnagar,2023,20.850644440875165,21,AIS Optimized Random Forest,Recursive forecast
+SAS Nagar,2019,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SAS Nagar,2020,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SAS Nagar,2021,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SAS Nagar,2022,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SAS Nagar,2023,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SBS Nagar,2019,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SBS Nagar,2020,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SBS Nagar,2021,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SBS Nagar,2022,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+SBS Nagar,2023,0.059683227220540654,0,AIS Optimized Random Forest,Recursive forecast
+Sangrur,2019,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sangrur,2020,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sangrur,2021,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sangrur,2022,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sangrur,2023,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sri Muktsar Sahib,2019,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sri Muktsar Sahib,2020,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sri Muktsar Sahib,2021,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sri Muktsar Sahib,2022,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Sri Muktsar Sahib,2023,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Tarn Taran,2019,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Tarn Taran,2020,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Tarn Taran,2021,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Tarn Taran,2022,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast
+Tarn Taran,2023,0.05315337647427199,0,AIS Optimized Random Forest,Recursive forecast

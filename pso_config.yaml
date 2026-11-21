@@ -1,0 +1,75 @@
+project:
+  name: AI-Based District-Wise Cattle Breeding Resource Analysis
+  algorithm: Particle Swarm Optimization
+  dataset: Table_10.13_cowbulls_kept_AIcentres_0.csv
+  output_directory: C:\Users\sagni\Downloads\AI-Based District-Wise Cattle Breeding
+    Resource Analysis
+dataset:
+  first_year: 1971
+  last_year: 2018
+  target: Animal_Count
+  features:
+  - Year
+  - Lag_1
+  - Lag_2
+  - Lag_3
+  - Moving_Average_3
+  - Previous_Change
+  - District_Code
+  district_mapping:
+    Amritsar: 0
+    Barnala: 1
+    Bathinda: 2
+    Faridkot: 3
+    Fatehgarh Sahib: 4
+    Fazilka: 5
+    Ferozpur: 6
+    Gurdaspur: 7
+    Hoshiarpur: 8
+    Jalandhar: 9
+    Kapurthala: 10
+    Ludhiana: 11
+    Mansa: 12
+    Moga: 13
+    Pathankot: 14
+    Patiala: 15
+    Rupnagar: 16
+    SAS Nagar: 17
+    SBS Nagar: 18
+    Sangrur: 19
+    Sri Muktsar Sahib: 20
+    Tarn Taran: 21
+splitting:
+  type: chronological
+  train_end_year: 2001
+  validation_end_year: 2008
+  training_records: 395
+  validation_records: 126
+  testing_records: 193
+pso:
+  particles: 12
+  iterations: 15
+  inertia_start: 0.9
+  inertia_end: 0.4
+  cognitive_coefficient: 1.8
+  social_coefficient: 1.8
+  maximum_velocity: 0.2
+  fitness_function: Validation MAE
+  best_validation_mae: 0.8158183463120375
+  best_parameters:
+    n_estimators: 101
+    max_depth: 13
+    min_samples_split: 9
+    min_samples_leaf: 7
+    max_features: 1.0
+  unique_configurations: 190
+forecast:
+  start_year: 2019
+  end_year: 2023
+  excluded_districts:
+  - Gurdaspur
+artifacts:
+  model: pso_model.pkl
+  preprocessing: pso_preprocessing.pkl
+  metrics: pso_metrics.json
+  configuration: pso_config.yaml

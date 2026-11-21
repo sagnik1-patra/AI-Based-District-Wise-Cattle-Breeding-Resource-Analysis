@@ -1,0 +1,31 @@
+{
+    "project": "AI-Based District-Wise Cattle Breeding Resource Analysis",
+    "selected_model": "Neural_Network",
+    "test_records": 193,
+    "model_performance": {
+        "Random_Forest": {
+            "MAE": 1.0050996874742988,
+            "RMSE": 3.8738892136940337,
+            "R2": 0.88596913597678
+        },
+        "Neural_Network": {
+            "MAE": 0.9515249914455908,
+            "RMSE": 3.985894597644431,
+            "R2": 0.8792798845219366
+        }
+    },
+    "forecast": {
+        "start_year": 2019,
+        "end_year": 2023,
+        "forecast_records": 105,
+        "excluded_districts": [
+            "Gurdaspur"
+        ]
+    },
+    "notes": [
+        "R2 is not classification accuracy.",
+        "Negative R2 indicates poor fit relative to a mean baseline.",
+        "Missing historical values were not filled with zeros.",
+        "Forecasts are model estimates, not actual observations."
+    ]
+}

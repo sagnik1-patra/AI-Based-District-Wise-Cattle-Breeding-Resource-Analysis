@@ -1,0 +1,36 @@
+{
+    "project": "AIS-Based Cattle Breeding Resource Analysis",
+    "algorithm": "Clonal Selection",
+    "optimization_objective": "Minimize validation MAE",
+    "baseline_validation_mae": 1.0903970531318379,
+    "ais_validation_mae": 0.8242525905759241,
+    "baseline_test_metrics": {
+        "MAE": 1.0050996874742992,
+        "RMSE": 3.873889213694034,
+        "R2": 0.88596913597678
+    },
+    "ais_test_metrics": {
+        "MAE": 0.8677662262032242,
+        "RMSE": 3.6391096350022973,
+        "R2": 0.899372125040866
+    },
+    "best_parameters": {
+        "n_estimators": 134,
+        "max_depth": 9,
+        "min_samples_split": 10,
+        "min_samples_leaf": 7,
+        "max_features": 1.0
+    },
+    "optimization_generations": 15,
+    "unique_configurations_evaluated": 357,
+    "optimization_seconds": 148.82567954063416,
+    "test_records": 193,
+    "forecast_records": 105,
+    "notes": [
+        "AIS optimized Random Forest hyperparameters.",
+        "Test data was not used in AIS fitness evaluation.",
+        "R2 is a regression score, not classification accuracy.",
+        "Missing observations were not converted to zero.",
+        "Recursive forecasts are experimental projections."
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "project": "AI-Based District-Wise Cattle Breeding Resource Analysis",
+    "target": "Animal_Count",
+    "dataset_start_year": 1971,
+    "dataset_end_year": 2018,
+    "train_end_year": 2001,
+    "validation_end_year": 2008,
+    "training_records": 395,
+    "validation_records": 126,
+    "testing_records": 193,
+    "validation_metrics": {
+        "Random_Forest": {
+            "MAE": 1.090397053131838,
+            "RMSE": 3.008693948246575,
+            "R2": 0.9465927715860376
+        },
+        "Neural_Network": {
+            "MAE": 0.7486888435743158,
+            "RMSE": 2.3071772255210634,
+            "R2": 0.9685944843959416
+        }
+    },
+    "test_metrics": {
+        "Random_Forest": {
+            "MAE": 1.0050996874742988,
+            "RMSE": 3.8738892136940333,
+            "R2": 0.8859691359767801
+        },
+        "Neural_Network": {
+            "MAE": 0.9515249914455908,
+            "RMSE": 3.985894597644431,
+            "R2": 0.8792798845219366
+        }
+    },
+    "selected_model": "Neural_Network",
+    "selection_criterion": "Lowest validation MAE",
+    "notes": [
+        "Missing observations are not assumed to be zero.",
+        "Punjab aggregate excluded from district training.",
+        "Chronological train-validation-test split.",
+        "R2 is coefficient of determination, not classification accuracy.",
+        "Forecasts are experimental estimates, not observed counts."
+    ]
+}

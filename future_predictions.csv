@@ -1,0 +1,106 @@
+District,Year,Predicted_Animal_Count,Rounded_Prediction,Model,Prediction_Type
+Amritsar,2019,0.0,0,Neural_Network,Recursive forecast
+Amritsar,2020,0.0,0,Neural_Network,Recursive forecast
+Amritsar,2021,0.0,0,Neural_Network,Recursive forecast
+Amritsar,2022,0.0,0,Neural_Network,Recursive forecast
+Amritsar,2023,0.0,0,Neural_Network,Recursive forecast
+Barnala,2019,0.0,0,Neural_Network,Recursive forecast
+Barnala,2020,0.0,0,Neural_Network,Recursive forecast
+Barnala,2021,0.0,0,Neural_Network,Recursive forecast
+Barnala,2022,0.0,0,Neural_Network,Recursive forecast
+Barnala,2023,0.0,0,Neural_Network,Recursive forecast
+Bathinda,2019,0.0,0,Neural_Network,Recursive forecast
+Bathinda,2020,0.0,0,Neural_Network,Recursive forecast
+Bathinda,2021,0.0,0,Neural_Network,Recursive forecast
+Bathinda,2022,0.0,0,Neural_Network,Recursive forecast
+Bathinda,2023,0.0,0,Neural_Network,Recursive forecast
+Faridkot,2019,0.0,0,Neural_Network,Recursive forecast
+Faridkot,2020,0.0,0,Neural_Network,Recursive forecast
+Faridkot,2021,0.0,0,Neural_Network,Recursive forecast
+Faridkot,2022,0.0,0,Neural_Network,Recursive forecast
+Faridkot,2023,0.0,0,Neural_Network,Recursive forecast
+Fatehgarh Sahib,2019,0.0,0,Neural_Network,Recursive forecast
+Fatehgarh Sahib,2020,0.0,0,Neural_Network,Recursive forecast
+Fatehgarh Sahib,2021,0.0,0,Neural_Network,Recursive forecast
+Fatehgarh Sahib,2022,0.0,0,Neural_Network,Recursive forecast
+Fatehgarh Sahib,2023,0.0,0,Neural_Network,Recursive forecast
+Fazilka,2019,0.0,0,Neural_Network,Recursive forecast
+Fazilka,2020,0.0,0,Neural_Network,Recursive forecast
+Fazilka,2021,0.0,0,Neural_Network,Recursive forecast
+Fazilka,2022,0.0,0,Neural_Network,Recursive forecast
+Fazilka,2023,0.0,0,Neural_Network,Recursive forecast
+Ferozpur,2019,0.0,0,Neural_Network,Recursive forecast
+Ferozpur,2020,0.0,0,Neural_Network,Recursive forecast
+Ferozpur,2021,0.0,0,Neural_Network,Recursive forecast
+Ferozpur,2022,0.0,0,Neural_Network,Recursive forecast
+Ferozpur,2023,0.0,0,Neural_Network,Recursive forecast
+Hoshiarpur,2019,0.0,0,Neural_Network,Recursive forecast
+Hoshiarpur,2020,0.0,0,Neural_Network,Recursive forecast
+Hoshiarpur,2021,0.0,0,Neural_Network,Recursive forecast
+Hoshiarpur,2022,0.0,0,Neural_Network,Recursive forecast
+Hoshiarpur,2023,0.0,0,Neural_Network,Recursive forecast
+Jalandhar,2019,0.0,0,Neural_Network,Recursive forecast
+Jalandhar,2020,0.0,0,Neural_Network,Recursive forecast
+Jalandhar,2021,0.0,0,Neural_Network,Recursive forecast
+Jalandhar,2022,0.0,0,Neural_Network,Recursive forecast
+Jalandhar,2023,0.0,0,Neural_Network,Recursive forecast
+Kapurthala,2019,0.0,0,Neural_Network,Recursive forecast
+Kapurthala,2020,0.0,0,Neural_Network,Recursive forecast
+Kapurthala,2021,0.0,0,Neural_Network,Recursive forecast
+Kapurthala,2022,0.0,0,Neural_Network,Recursive forecast
+Kapurthala,2023,0.0,0,Neural_Network,Recursive forecast
+Ludhiana,2019,0.0,0,Neural_Network,Recursive forecast
+Ludhiana,2020,0.0,0,Neural_Network,Recursive forecast
+Ludhiana,2021,0.0,0,Neural_Network,Recursive forecast
+Ludhiana,2022,0.0,0,Neural_Network,Recursive forecast
+Ludhiana,2023,0.0,0,Neural_Network,Recursive forecast
+Mansa,2019,0.0,0,Neural_Network,Recursive forecast
+Mansa,2020,0.0,0,Neural_Network,Recursive forecast
+Mansa,2021,0.0,0,Neural_Network,Recursive forecast
+Mansa,2022,0.0,0,Neural_Network,Recursive forecast
+Mansa,2023,0.0,0,Neural_Network,Recursive forecast
+Moga,2019,0.0,0,Neural_Network,Recursive forecast
+Moga,2020,0.0,0,Neural_Network,Recursive forecast
+Moga,2021,0.0,0,Neural_Network,Recursive forecast
+Moga,2022,0.0,0,Neural_Network,Recursive forecast
+Moga,2023,0.0,0,Neural_Network,Recursive forecast
+Pathankot,2019,0.0,0,Neural_Network,Recursive forecast
+Pathankot,2020,0.0,0,Neural_Network,Recursive forecast
+Pathankot,2021,0.0,0,Neural_Network,Recursive forecast
+Pathankot,2022,0.0,0,Neural_Network,Recursive forecast
+Pathankot,2023,0.0,0,Neural_Network,Recursive forecast
+Patiala,2019,68.88472747802734,69,Neural_Network,Recursive forecast
+Patiala,2020,60.171592712402344,60,Neural_Network,Recursive forecast
+Patiala,2021,56.52947998046875,57,Neural_Network,Recursive forecast
+Patiala,2022,54.097145080566406,54,Neural_Network,Recursive forecast
+Patiala,2023,51.13325119018555,51,Neural_Network,Recursive forecast
+Rupnagar,2019,27.97123146057129,28,Neural_Network,Recursive forecast
+Rupnagar,2020,24.096515655517578,24,Neural_Network,Recursive forecast
+Rupnagar,2021,22.23619270324707,22,Neural_Network,Recursive forecast
+Rupnagar,2022,19.3922176361084,19,Neural_Network,Recursive forecast
+Rupnagar,2023,15.322169303894043,15,Neural_Network,Recursive forecast
+SAS Nagar,2019,0.0,0,Neural_Network,Recursive forecast
+SAS Nagar,2020,0.0,0,Neural_Network,Recursive forecast
+SAS Nagar,2021,0.0,0,Neural_Network,Recursive forecast
+SAS Nagar,2022,0.0,0,Neural_Network,Recursive forecast
+SAS Nagar,2023,0.0,0,Neural_Network,Recursive forecast
+SBS Nagar,2019,0.0,0,Neural_Network,Recursive forecast
+SBS Nagar,2020,0.0,0,Neural_Network,Recursive forecast
+SBS Nagar,2021,0.0,0,Neural_Network,Recursive forecast
+SBS Nagar,2022,0.0,0,Neural_Network,Recursive forecast
+SBS Nagar,2023,0.0,0,Neural_Network,Recursive forecast
+Sangrur,2019,0.0,0,Neural_Network,Recursive forecast
+Sangrur,2020,0.0,0,Neural_Network,Recursive forecast
+Sangrur,2021,0.0,0,Neural_Network,Recursive forecast
+Sangrur,2022,0.0,0,Neural_Network,Recursive forecast
+Sangrur,2023,0.0,0,Neural_Network,Recursive forecast
+Sri Muktsar Sahib,2019,0.0,0,Neural_Network,Recursive forecast
+Sri Muktsar Sahib,2020,0.0,0,Neural_Network,Recursive forecast
+Sri Muktsar Sahib,2021,0.0,0,Neural_Network,Recursive forecast
+Sri Muktsar Sahib,2022,0.0,0,Neural_Network,Recursive forecast
+Sri Muktsar Sahib,2023,0.0,0,Neural_Network,Recursive forecast
+Tarn Taran,2019,0.0,0,Neural_Network,Recursive forecast
+Tarn Taran,2020,0.0,0,Neural_Network,Recursive forecast
+Tarn Taran,2021,0.0,0,Neural_Network,Recursive forecast
+Tarn Taran,2022,0.0,0,Neural_Network,Recursive forecast
+Tarn Taran,2023,0.0,0,Neural_Network,Recursive forecast

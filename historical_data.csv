@@ -1,0 +1,781 @@
+District,Year,Animal_Count
+Amritsar,1968,9.0
+Amritsar,1969,5.0
+Amritsar,1970,6.0
+Amritsar,1971,4.0
+Amritsar,1972,3.0
+Amritsar,1973,1.0
+Amritsar,1974,2.0
+Amritsar,1975,31.0
+Amritsar,1976,30.0
+Amritsar,1977,25.0
+Amritsar,1978,23.0
+Amritsar,1979,32.0
+Amritsar,1980,32.0
+Amritsar,1981,31.0
+Amritsar,1982,31.0
+Amritsar,1983,29.0
+Amritsar,1984,36.0
+Amritsar,1985,28.0
+Amritsar,1986,33.0
+Amritsar,1987,44.0
+Amritsar,1988,50.0
+Amritsar,1989,46.0
+Amritsar,1990,39.0
+Amritsar,1991,28.0
+Amritsar,1992,22.0
+Amritsar,1993,25.0
+Amritsar,1994,30.0
+Amritsar,1995,19.0
+Amritsar,1996,30.0
+Amritsar,1997,30.0
+Amritsar,1998,21.0
+Amritsar,1999,7.0
+Amritsar,2000,5.0
+Amritsar,2001,0.0
+Amritsar,2002,0.0
+Amritsar,2003,0.0
+Amritsar,2004,0.0
+Amritsar,2005,0.0
+Amritsar,2006,0.0
+Amritsar,2007,0.0
+Amritsar,2008,0.0
+Amritsar,2009,0.0
+Amritsar,2010,0.0
+Amritsar,2011,0.0
+Amritsar,2012,0.0
+Amritsar,2013,0.0
+Amritsar,2014,0.0
+Amritsar,2015,0.0
+Amritsar,2016,0.0
+Amritsar,2017,0.0
+Amritsar,2018,0.0
+Barnala,1993,0.0
+Barnala,1994,0.0
+Barnala,1995,0.0
+Barnala,1996,0.0
+Barnala,1997,0.0
+Barnala,1998,0.0
+Barnala,1999,0.0
+Barnala,2000,0.0
+Barnala,2001,0.0
+Barnala,2002,0.0
+Barnala,2003,0.0
+Barnala,2004,0.0
+Barnala,2005,0.0
+Barnala,2006,0.0
+Barnala,2007,0.0
+Barnala,2008,0.0
+Barnala,2009,0.0
+Barnala,2010,0.0
+Barnala,2011,0.0
+Barnala,2012,0.0
+Barnala,2013,0.0
+Barnala,2014,0.0
+Barnala,2015,0.0
+Barnala,2016,0.0
+Barnala,2017,0.0
+Barnala,2018,0.0
+Bathinda,1968,9.0
+Bathinda,1969,10.0
+Bathinda,1970,8.0
+Bathinda,1971,9.0
+Bathinda,1972,5.0
+Bathinda,1973,4.0
+Bathinda,1974,4.0
+Bathinda,1975,3.0
+Bathinda,1976,2.0
+Bathinda,1977,2.0
+Bathinda,1978,2.0
+Bathinda,1979,4.0
+Bathinda,1980,4.0
+Bathinda,1981,4.0
+Bathinda,1982,7.0
+Bathinda,1983,3.0
+Bathinda,1984,3.0
+Bathinda,1985,3.0
+Bathinda,1986,3.0
+Bathinda,1987,3.0
+Bathinda,1988,0.0
+Bathinda,1989,0.0
+Bathinda,1990,0.0
+Bathinda,1991,0.0
+Bathinda,1992,0.0
+Bathinda,1993,0.0
+Bathinda,1994,0.0
+Bathinda,1995,0.0
+Bathinda,1996,0.0
+Bathinda,1997,0.0
+Bathinda,1998,0.0
+Bathinda,1999,0.0
+Bathinda,2000,0.0
+Bathinda,2001,0.0
+Bathinda,2002,0.0
+Bathinda,2003,0.0
+Bathinda,2004,0.0
+Bathinda,2005,0.0
+Bathinda,2006,0.0
+Bathinda,2007,0.0
+Bathinda,2008,0.0
+Bathinda,2009,0.0
+Bathinda,2010,0.0
+Bathinda,2011,0.0
+Bathinda,2012,0.0
+Bathinda,2013,0.0
+Bathinda,2014,0.0
+Bathinda,2015,0.0
+Bathinda,2016,0.0
+Bathinda,2017,0.0
+Bathinda,2018,0.0
+Faridkot,1972,8.0
+Faridkot,1973,9.0
+Faridkot,1974,10.0
+Faridkot,1975,14.0
+Faridkot,1976,11.0
+Faridkot,1977,9.0
+Faridkot,1978,6.0
+Faridkot,1979,6.0
+Faridkot,1980,6.0
+Faridkot,1981,3.0
+Faridkot,1982,3.0
+Faridkot,1983,3.0
+Faridkot,1984,6.0
+Faridkot,1985,5.0
+Faridkot,1986,5.0
+Faridkot,1987,14.0
+Faridkot,1988,14.0
+Faridkot,1989,14.0
+Faridkot,1990,7.0
+Faridkot,1991,7.0
+Faridkot,1992,8.0
+Faridkot,1993,3.0
+Faridkot,1994,5.0
+Faridkot,1995,4.0
+Faridkot,1996,4.0
+Faridkot,1997,0.0
+Faridkot,1998,0.0
+Faridkot,1999,0.0
+Faridkot,2000,0.0
+Faridkot,2001,0.0
+Faridkot,2002,0.0
+Faridkot,2003,0.0
+Faridkot,2004,0.0
+Faridkot,2005,0.0
+Faridkot,2006,0.0
+Faridkot,2007,0.0
+Faridkot,2008,0.0
+Faridkot,2009,0.0
+Faridkot,2010,0.0
+Faridkot,2011,0.0
+Faridkot,2012,0.0
+Faridkot,2013,0.0
+Faridkot,2014,0.0
+Faridkot,2015,0.0
+Faridkot,2016,0.0
+Faridkot,2017,0.0
+Faridkot,2018,0.0
+Fatehgarh Sahib,1993,0.0
+Fatehgarh Sahib,1994,0.0
+Fatehgarh Sahib,1995,0.0
+Fatehgarh Sahib,1996,0.0
+Fatehgarh Sahib,1997,0.0
+Fatehgarh Sahib,1998,0.0
+Fatehgarh Sahib,1999,0.0
+Fatehgarh Sahib,2000,0.0
+Fatehgarh Sahib,2001,0.0
+Fatehgarh Sahib,2002,0.0
+Fatehgarh Sahib,2003,0.0
+Fatehgarh Sahib,2004,0.0
+Fatehgarh Sahib,2005,0.0
+Fatehgarh Sahib,2006,0.0
+Fatehgarh Sahib,2007,0.0
+Fatehgarh Sahib,2008,0.0
+Fatehgarh Sahib,2009,0.0
+Fatehgarh Sahib,2010,0.0
+Fatehgarh Sahib,2011,0.0
+Fatehgarh Sahib,2012,0.0
+Fatehgarh Sahib,2013,0.0
+Fatehgarh Sahib,2014,0.0
+Fatehgarh Sahib,2015,0.0
+Fatehgarh Sahib,2016,0.0
+Fatehgarh Sahib,2017,0.0
+Fatehgarh Sahib,2018,0.0
+Fazilka,2014,0.0
+Fazilka,2015,0.0
+Fazilka,2016,0.0
+Fazilka,2017,0.0
+Fazilka,2018,0.0
+Ferozpur,1968,5.0
+Ferozpur,1969,5.0
+Ferozpur,1970,5.0
+Ferozpur,1971,5.0
+Ferozpur,1972,0.0
+Ferozpur,1973,0.0
+Ferozpur,1974,0.0
+Ferozpur,1975,0.0
+Ferozpur,1976,0.0
+Ferozpur,1977,0.0
+Ferozpur,1978,6.0
+Ferozpur,1979,4.0
+Ferozpur,1980,4.0
+Ferozpur,1981,8.0
+Ferozpur,1982,8.0
+Ferozpur,1983,7.0
+Ferozpur,1984,10.0
+Ferozpur,1985,7.0
+Ferozpur,1986,12.0
+Ferozpur,1987,5.0
+Ferozpur,1988,9.0
+Ferozpur,1989,11.0
+Ferozpur,1990,8.0
+Ferozpur,1991,13.0
+Ferozpur,1992,13.0
+Ferozpur,1993,10.0
+Ferozpur,1994,13.0
+Ferozpur,1995,11.0
+Ferozpur,1996,6.0
+Ferozpur,1997,10.0
+Ferozpur,1998,4.0
+Ferozpur,1999,0.0
+Ferozpur,2000,0.0
+Ferozpur,2001,0.0
+Ferozpur,2002,0.0
+Ferozpur,2003,0.0
+Ferozpur,2004,0.0
+Ferozpur,2005,0.0
+Ferozpur,2006,0.0
+Ferozpur,2007,0.0
+Ferozpur,2008,0.0
+Ferozpur,2009,0.0
+Ferozpur,2010,0.0
+Ferozpur,2011,0.0
+Ferozpur,2012,0.0
+Ferozpur,2013,0.0
+Ferozpur,2014,0.0
+Ferozpur,2015,0.0
+Ferozpur,2016,0.0
+Ferozpur,2017,0.0
+Ferozpur,2018,0.0
+Gurdaspur,1968,8.0
+Gurdaspur,1969,5.0
+Gurdaspur,1970,4.0
+Gurdaspur,1971,4.0
+Gurdaspur,1972,3.0
+Gurdaspur,1973,4.0
+Gurdaspur,1974,6.0
+Gurdaspur,1975,8.0
+Gurdaspur,1976,9.0
+Gurdaspur,1977,14.0
+Gurdaspur,1978,10.0
+Gurdaspur,1979,20.0
+Gurdaspur,1980,20.0
+Gurdaspur,1981,19.0
+Gurdaspur,1982,15.0
+Gurdaspur,1983,17.0
+Gurdaspur,1984,19.0
+Gurdaspur,1985,17.0
+Gurdaspur,1986,18.0
+Gurdaspur,1987,19.0
+Gurdaspur,1988,22.0
+Gurdaspur,1989,17.0
+Gurdaspur,1990,20.0
+Gurdaspur,1991,18.0
+Gurdaspur,1992,15.0
+Gurdaspur,1993,14.0
+Gurdaspur,1994,17.0
+Gurdaspur,1995,16.0
+Gurdaspur,1996,13.0
+Gurdaspur,1997,12.0
+Gurdaspur,1998,3.0
+Hoshiarpur,1968,7.0
+Hoshiarpur,1969,6.0
+Hoshiarpur,1970,6.0
+Hoshiarpur,1971,5.0
+Hoshiarpur,1972,5.0
+Hoshiarpur,1973,13.0
+Hoshiarpur,1974,9.0
+Hoshiarpur,1975,14.0
+Hoshiarpur,1976,13.0
+Hoshiarpur,1977,16.0
+Hoshiarpur,1978,17.0
+Hoshiarpur,1979,14.0
+Hoshiarpur,1980,14.0
+Hoshiarpur,1981,14.0
+Hoshiarpur,1982,14.0
+Hoshiarpur,1983,14.0
+Hoshiarpur,1984,12.0
+Hoshiarpur,1985,10.0
+Hoshiarpur,1986,14.0
+Hoshiarpur,1987,12.0
+Hoshiarpur,1988,13.0
+Hoshiarpur,1989,11.0
+Hoshiarpur,1990,12.0
+Hoshiarpur,1991,11.0
+Hoshiarpur,1992,11.0
+Hoshiarpur,1993,9.0
+Hoshiarpur,1994,11.0
+Hoshiarpur,1995,10.0
+Hoshiarpur,1996,10.0
+Hoshiarpur,1997,9.0
+Hoshiarpur,1998,9.0
+Hoshiarpur,1999,8.0
+Hoshiarpur,2000,8.0
+Hoshiarpur,2001,0.0
+Hoshiarpur,2002,0.0
+Hoshiarpur,2003,0.0
+Hoshiarpur,2004,0.0
+Hoshiarpur,2005,0.0
+Hoshiarpur,2006,0.0
+Hoshiarpur,2007,0.0
+Hoshiarpur,2008,0.0
+Hoshiarpur,2009,0.0
+Hoshiarpur,2010,0.0
+Hoshiarpur,2011,0.0
+Hoshiarpur,2012,0.0
+Hoshiarpur,2013,0.0
+Hoshiarpur,2014,0.0
+Hoshiarpur,2015,0.0
+Hoshiarpur,2016,0.0
+Hoshiarpur,2017,0.0
+Hoshiarpur,2018,0.0
+Jalandhar,1968,11.0
+Jalandhar,1969,10.0
+Jalandhar,1970,12.0
+Jalandhar,1971,11.0
+Jalandhar,1972,9.0
+Jalandhar,1973,8.0
+Jalandhar,1974,13.0
+Jalandhar,1975,12.0
+Jalandhar,1976,8.0
+Jalandhar,1977,8.0
+Jalandhar,1978,12.0
+Jalandhar,1979,14.0
+Jalandhar,1980,14.0
+Jalandhar,1981,16.0
+Jalandhar,1982,12.0
+Jalandhar,1983,14.0
+Jalandhar,1984,17.0
+Jalandhar,1985,22.0
+Jalandhar,1986,21.0
+Jalandhar,1987,21.0
+Jalandhar,1988,27.0
+Jalandhar,1989,27.0
+Jalandhar,1990,18.0
+Jalandhar,1991,18.0
+Jalandhar,1992,19.0
+Jalandhar,1993,14.0
+Jalandhar,1994,10.0
+Jalandhar,1995,10.0
+Jalandhar,1996,10.0
+Jalandhar,1997,5.0
+Jalandhar,1998,3.0
+Jalandhar,1999,2.0
+Jalandhar,2000,3.0
+Jalandhar,2001,0.0
+Jalandhar,2002,0.0
+Jalandhar,2003,0.0
+Jalandhar,2004,0.0
+Jalandhar,2005,0.0
+Jalandhar,2006,0.0
+Jalandhar,2007,0.0
+Jalandhar,2008,0.0
+Jalandhar,2009,0.0
+Jalandhar,2010,0.0
+Jalandhar,2011,0.0
+Jalandhar,2012,0.0
+Jalandhar,2013,0.0
+Jalandhar,2014,0.0
+Jalandhar,2015,0.0
+Jalandhar,2016,0.0
+Jalandhar,2017,0.0
+Jalandhar,2018,0.0
+Kapurthala,1968,4.0
+Kapurthala,1969,4.0
+Kapurthala,1970,2.0
+Kapurthala,1971,5.0
+Kapurthala,1972,5.0
+Kapurthala,1973,6.0
+Kapurthala,1974,9.0
+Kapurthala,1975,13.0
+Kapurthala,1976,13.0
+Kapurthala,1977,12.0
+Kapurthala,1978,11.0
+Kapurthala,1979,7.0
+Kapurthala,1980,7.0
+Kapurthala,1981,13.0
+Kapurthala,1982,11.0
+Kapurthala,1983,18.0
+Kapurthala,1984,13.0
+Kapurthala,1985,11.0
+Kapurthala,1986,12.0
+Kapurthala,1987,27.0
+Kapurthala,1988,44.0
+Kapurthala,1989,27.0
+Kapurthala,1990,34.0
+Kapurthala,1991,18.0
+Kapurthala,1992,17.0
+Kapurthala,1993,20.0
+Kapurthala,1994,12.0
+Kapurthala,1995,10.0
+Kapurthala,1996,24.0
+Kapurthala,1997,21.0
+Kapurthala,1998,23.0
+Kapurthala,1999,22.0
+Kapurthala,2000,21.0
+Kapurthala,2001,25.0
+Kapurthala,2002,20.0
+Kapurthala,2003,20.0
+Kapurthala,2004,14.0
+Kapurthala,2005,6.0
+Kapurthala,2006,0.0
+Kapurthala,2007,0.0
+Kapurthala,2008,0.0
+Kapurthala,2009,0.0
+Kapurthala,2010,0.0
+Kapurthala,2011,0.0
+Kapurthala,2012,0.0
+Kapurthala,2013,0.0
+Kapurthala,2014,0.0
+Kapurthala,2015,0.0
+Kapurthala,2016,0.0
+Kapurthala,2017,0.0
+Kapurthala,2018,0.0
+Ludhiana,1968,12.0
+Ludhiana,1969,11.0
+Ludhiana,1970,11.0
+Ludhiana,1971,9.0
+Ludhiana,1972,9.0
+Ludhiana,1973,7.0
+Ludhiana,1974,10.0
+Ludhiana,1975,17.0
+Ludhiana,1976,17.0
+Ludhiana,1977,17.0
+Ludhiana,1978,27.0
+Ludhiana,1979,20.0
+Ludhiana,1980,20.0
+Ludhiana,1981,28.0
+Ludhiana,1982,37.0
+Ludhiana,1983,33.0
+Ludhiana,1984,26.0
+Ludhiana,1985,22.0
+Ludhiana,1986,18.0
+Ludhiana,1987,23.0
+Ludhiana,1988,23.0
+Ludhiana,1989,23.0
+Ludhiana,1990,19.0
+Ludhiana,1991,11.0
+Ludhiana,1992,18.0
+Ludhiana,1993,20.0
+Ludhiana,1994,20.0
+Ludhiana,1995,19.0
+Ludhiana,1996,18.0
+Ludhiana,1997,0.0
+Ludhiana,1998,0.0
+Ludhiana,1999,0.0
+Ludhiana,2000,0.0
+Ludhiana,2001,0.0
+Ludhiana,2002,0.0
+Ludhiana,2003,0.0
+Ludhiana,2004,0.0
+Ludhiana,2005,0.0
+Ludhiana,2006,0.0
+Ludhiana,2007,0.0
+Ludhiana,2008,0.0
+Ludhiana,2009,0.0
+Ludhiana,2010,0.0
+Ludhiana,2011,0.0
+Ludhiana,2012,0.0
+Ludhiana,2013,0.0
+Ludhiana,2014,0.0
+Ludhiana,2015,0.0
+Ludhiana,2016,0.0
+Ludhiana,2017,0.0
+Ludhiana,2018,0.0
+Mansa,1993,0.0
+Mansa,1994,0.0
+Mansa,1995,0.0
+Mansa,1996,0.0
+Mansa,1997,0.0
+Mansa,1998,0.0
+Mansa,1999,0.0
+Mansa,2000,0.0
+Mansa,2001,0.0
+Mansa,2002,0.0
+Mansa,2003,0.0
+Mansa,2004,0.0
+Mansa,2005,0.0
+Mansa,2006,0.0
+Mansa,2007,0.0
+Mansa,2008,0.0
+Mansa,2009,0.0
+Mansa,2010,0.0
+Mansa,2011,0.0
+Mansa,2012,0.0
+Mansa,2013,0.0
+Mansa,2014,0.0
+Mansa,2015,0.0
+Mansa,2016,0.0
+Mansa,2017,0.0
+Mansa,2018,0.0
+Moga,1997,0.0
+Moga,1998,0.0
+Moga,1999,0.0
+Moga,2000,0.0
+Moga,2001,0.0
+Moga,2002,0.0
+Moga,2003,0.0
+Moga,2004,0.0
+Moga,2005,0.0
+Moga,2006,0.0
+Moga,2007,0.0
+Moga,2008,0.0
+Moga,2009,0.0
+Moga,2010,0.0
+Moga,2011,0.0
+Moga,2012,0.0
+Moga,2013,0.0
+Moga,2014,0.0
+Moga,2015,0.0
+Moga,2016,0.0
+Moga,2017,0.0
+Moga,2018,0.0
+Pathankot,2014,0.0
+Pathankot,2015,0.0
+Pathankot,2016,0.0
+Pathankot,2017,0.0
+Pathankot,2018,0.0
+Patiala,1968,15.0
+Patiala,1969,12.0
+Patiala,1970,10.0
+Patiala,1971,8.0
+Patiala,1972,8.0
+Patiala,1973,5.0
+Patiala,1974,3.0
+Patiala,1975,49.0
+Patiala,1976,48.0
+Patiala,1977,79.0
+Patiala,1978,63.0
+Patiala,1979,122.0
+Patiala,1980,122.0
+Patiala,1981,46.0
+Patiala,1982,51.0
+Patiala,1983,52.0
+Patiala,1984,55.0
+Patiala,1985,58.0
+Patiala,1986,58.0
+Patiala,1987,45.0
+Patiala,1988,57.0
+Patiala,1989,54.0
+Patiala,1990,50.0
+Patiala,1991,39.0
+Patiala,1992,40.0
+Patiala,1993,51.0
+Patiala,1994,53.0
+Patiala,1995,56.0
+Patiala,1996,62.0
+Patiala,1997,64.0
+Patiala,1998,69.0
+Patiala,1999,68.0
+Patiala,2000,62.0
+Patiala,2001,59.0
+Patiala,2002,65.0
+Patiala,2003,53.0
+Patiala,2004,55.0
+Patiala,2005,55.0
+Patiala,2006,49.0
+Patiala,2007,41.0
+Patiala,2008,44.0
+Patiala,2009,44.0
+Patiala,2010,36.0
+Patiala,2011,26.0
+Patiala,2012,49.0
+Patiala,2013,31.0
+Patiala,2014,46.0
+Patiala,2015,44.0
+Patiala,2016,44.0
+Patiala,2017,44.0
+Patiala,2018,73.0
+Rupnagar,1968,2.0
+Rupnagar,1969,2.0
+Rupnagar,1970,2.0
+Rupnagar,1971,1.0
+Rupnagar,1972,4.0
+Rupnagar,1973,4.0
+Rupnagar,1974,6.0
+Rupnagar,1975,10.0
+Rupnagar,1976,8.0
+Rupnagar,1977,7.0
+Rupnagar,1978,13.0
+Rupnagar,1979,13.0
+Rupnagar,1980,13.0
+Rupnagar,1981,14.0
+Rupnagar,1982,14.0
+Rupnagar,1983,14.0
+Rupnagar,1984,19.0
+Rupnagar,1985,15.0
+Rupnagar,1986,10.0
+Rupnagar,1987,12.0
+Rupnagar,1988,11.0
+Rupnagar,1989,11.0
+Rupnagar,1990,11.0
+Rupnagar,1991,11.0
+Rupnagar,1992,10.0
+Rupnagar,1993,9.0
+Rupnagar,1994,9.0
+Rupnagar,1995,9.0
+Rupnagar,1996,9.0
+Rupnagar,1997,0.0
+Rupnagar,1998,0.0
+Rupnagar,1999,7.0
+Rupnagar,2000,8.0
+Rupnagar,2001,7.0
+Rupnagar,2002,19.0
+Rupnagar,2003,26.0
+Rupnagar,2004,25.0
+Rupnagar,2005,23.0
+Rupnagar,2006,26.0
+Rupnagar,2007,27.0
+Rupnagar,2008,19.0
+Rupnagar,2009,20.0
+Rupnagar,2010,25.0
+Rupnagar,2011,37.0
+Rupnagar,2012,25.0
+Rupnagar,2013,27.0
+Rupnagar,2014,34.0
+Rupnagar,2015,23.0
+Rupnagar,2016,23.0
+Rupnagar,2017,23.0
+Rupnagar,2018,31.0
+SAS Nagar,1993,0.0
+SAS Nagar,1994,0.0
+SAS Nagar,1995,0.0
+SAS Nagar,1996,0.0
+SAS Nagar,1997,0.0
+SAS Nagar,1998,0.0
+SAS Nagar,1999,0.0
+SAS Nagar,2000,0.0
+SAS Nagar,2001,0.0
+SAS Nagar,2002,0.0
+SAS Nagar,2003,0.0
+SAS Nagar,2004,0.0
+SAS Nagar,2005,0.0
+SAS Nagar,2006,0.0
+SAS Nagar,2007,0.0
+SAS Nagar,2008,0.0
+SAS Nagar,2009,0.0
+SAS Nagar,2010,0.0
+SAS Nagar,2011,0.0
+SAS Nagar,2012,0.0
+SAS Nagar,2013,0.0
+SAS Nagar,2014,0.0
+SAS Nagar,2015,0.0
+SAS Nagar,2016,0.0
+SAS Nagar,2017,0.0
+SAS Nagar,2018,0.0
+SBS Nagar,1997,6.0
+SBS Nagar,1998,5.0
+SBS Nagar,1999,5.0
+SBS Nagar,2000,5.0
+SBS Nagar,2001,0.0
+SBS Nagar,2002,0.0
+SBS Nagar,2003,0.0
+SBS Nagar,2004,0.0
+SBS Nagar,2005,0.0
+SBS Nagar,2006,0.0
+SBS Nagar,2007,0.0
+SBS Nagar,2008,0.0
+SBS Nagar,2009,0.0
+SBS Nagar,2010,0.0
+SBS Nagar,2011,0.0
+SBS Nagar,2012,0.0
+SBS Nagar,2013,0.0
+SBS Nagar,2014,0.0
+SBS Nagar,2015,0.0
+SBS Nagar,2016,0.0
+SBS Nagar,2017,0.0
+SBS Nagar,2018,0.0
+Sangrur,1968,7.0
+Sangrur,1969,9.0
+Sangrur,1970,11.0
+Sangrur,1971,7.0
+Sangrur,1972,7.0
+Sangrur,1973,8.0
+Sangrur,1974,5.0
+Sangrur,1975,1.0
+Sangrur,1976,0.0
+Sangrur,1977,0.0
+Sangrur,1978,0.0
+Sangrur,1979,33.0
+Sangrur,1980,33.0
+Sangrur,1981,0.0
+Sangrur,1982,0.0
+Sangrur,1983,0.0
+Sangrur,1984,0.0
+Sangrur,1985,0.0
+Sangrur,1986,0.0
+Sangrur,1987,0.0
+Sangrur,1988,0.0
+Sangrur,1989,0.0
+Sangrur,1990,0.0
+Sangrur,1991,0.0
+Sangrur,1992,0.0
+Sangrur,1993,0.0
+Sangrur,1994,0.0
+Sangrur,1995,0.0
+Sangrur,1996,0.0
+Sangrur,1997,0.0
+Sangrur,1998,0.0
+Sangrur,1999,0.0
+Sangrur,2000,0.0
+Sangrur,2001,0.0
+Sangrur,2002,0.0
+Sangrur,2003,0.0
+Sangrur,2004,0.0
+Sangrur,2005,0.0
+Sangrur,2006,0.0
+Sangrur,2007,0.0
+Sangrur,2008,0.0
+Sangrur,2009,0.0
+Sangrur,2010,0.0
+Sangrur,2011,0.0
+Sangrur,2012,0.0
+Sangrur,2013,0.0
+Sangrur,2014,0.0
+Sangrur,2015,0.0
+Sangrur,2016,0.0
+Sangrur,2017,0.0
+Sangrur,2018,0.0
+Sri Muktsar Sahib,1997,0.0
+Sri Muktsar Sahib,1998,0.0
+Sri Muktsar Sahib,1999,0.0
+Sri Muktsar Sahib,2000,0.0
+Sri Muktsar Sahib,2001,0.0
+Sri Muktsar Sahib,2002,0.0
+Sri Muktsar Sahib,2003,0.0
+Sri Muktsar Sahib,2004,0.0
+Sri Muktsar Sahib,2005,0.0
+Sri Muktsar Sahib,2006,0.0
+Sri Muktsar Sahib,2007,0.0
+Sri Muktsar Sahib,2008,0.0
+Sri Muktsar Sahib,2009,0.0
+Sri Muktsar Sahib,2010,0.0
+Sri Muktsar Sahib,2011,0.0
+Sri Muktsar Sahib,2012,0.0
+Sri Muktsar Sahib,2013,0.0
+Sri Muktsar Sahib,2014,0.0
+Sri Muktsar Sahib,2015,0.0
+Sri Muktsar Sahib,2016,0.0
+Sri Muktsar Sahib,2017,0.0
+Sri Muktsar Sahib,2018,0.0
+Tarn Taran,2007,0.0
+Tarn Taran,2008,0.0
+Tarn Taran,2009,0.0
+Tarn Taran,2010,0.0
+Tarn Taran,2011,0.0
+Tarn Taran,2012,0.0
+Tarn Taran,2013,0.0
+Tarn Taran,2014,0.0
+Tarn Taran,2015,0.0
+Tarn Taran,2016,0.0
+Tarn Taran,2017,0.0
+Tarn Taran,2018,0.0
